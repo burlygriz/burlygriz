@@ -1,16 +1,17 @@
-## Hi there 👋
+# Robert (Bobby) Laughery
 
-<!--
-**burlygriz/burlygriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in RV parts and build local-first tools that make operational information easier to organize, check, and use.
 
-Here are some ideas to get you started:
+I’m interested in data annotation, AI training, data quality, and technical operations roles where careful review, clear documentation, and consistent decisions matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+Python · FastAPI · SQLite · structured data · catalog workflows · testing · documentation
+
+## How I work
+
+I focus on clear data structures, careful review, practical workflows, and documentation that helps other people understand a tool. Some of my work is private or still in development; I share project details when they are ready for public release.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/robert-laughery-31104391/)
